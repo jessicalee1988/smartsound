@@ -1,0 +1,7 @@
+{
+  "name": "Smart Sounds - Jessica",
+  "description": "A fun, interactive app for primary students to master the pronunciation of -s, -es, and -ed word endings through rules and structured practice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
